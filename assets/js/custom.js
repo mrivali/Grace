@@ -1,9 +1,8 @@
 /*--------------------- Copyright (c) 2019 -----------------------
 [Master Javascript]
-
-Project: Portfolio Responsive HTML Template
-Version: 1.0.6
-Assigned to: ThemeForest
+Project: Resume
+Version: 1.0
+Assigned to: Grace Ngoiri
 ------------------------------------------------------------------
 
 
